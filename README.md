@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I m new to the platform, passionate about coding and tech. So I m discovering all this by myself. Hopefully I learn more and have fun ^^
 <!--
 **lophmm/lophmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
