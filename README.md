@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 I am passionate about coding and tech. So I m discovering all this by myself. Hopefully I learn more and have fun ^^
 My current project:
 - AI bubble
